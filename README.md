@@ -1,5 +1,13 @@
 # 🛡️ SOC Home Lab — Attack Detection with Sysmon
 
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-4B275F?style=for-the-badge&logo=microsoft&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=for-the-badge&logo=mitre&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+
 A home lab simulating real-world cyberattacks and blue team detection using Kali Linux and Windows 10 with Sysmon.
 
 ---
@@ -232,7 +240,7 @@ tags:
 
 **Oussama Zehri**  
 Cybersecurity enthusiast | SOC Analyst in training  
-[LinkedIn](#) • [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/oussama-zehri-426091278/) • [GitHub](#)
 
 ---
 
