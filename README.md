@@ -239,8 +239,8 @@ tags:
 ## 👤 Author
 
 **Oussama Zehri**  
-Cybersecurity enthusiast | SOC Analyst in training  
-[LinkedIn](https://www.linkedin.com/in/oussama-zehri-426091278/) • [GitHub](#)
+Cybersecurity enthusiast | SOC Analyst in training  | pentester
+[LinkedIn](https://www.linkedin.com/in/oussama-zehri-426091278/) • 
 
 ---
 
